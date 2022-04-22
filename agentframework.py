@@ -3,6 +3,8 @@
 Created on Sun Apr 17 19:25:28 2022
 
 @author: odett
+
+File created to link agents and functions onto the model
 """
 
 import random
